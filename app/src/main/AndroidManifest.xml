@@ -12,7 +12,7 @@
         <activity android:name=".MainActivity">
 
         </activity>
-        <activity android:name=".WGWActivity">
+        <activity android:name=".modules.wgw.WGWActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

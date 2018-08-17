@@ -1,4 +1,4 @@
-package com.wgw.mykotlin
+package com.wgw.mykotlin.modules.wgw
 
 import com.wgw.mykotlin.Base.BasePresenter
 import com.wgw.mykotlin.Base.BaseView

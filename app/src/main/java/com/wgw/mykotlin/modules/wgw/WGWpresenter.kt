@@ -1,4 +1,4 @@
-package com.wgw.mykotlin
+package com.wgw.mykotlin.modules.wgw
 
 import android.content.Context
 import com.wgw.mykotlin.Base.BaseView
@@ -8,9 +8,9 @@ import com.wgw.mykotlin.Base.BaseView
  * @time 2018/8/17 14:32
  * @class describe
  */
-class WGWpresenter :WGWContact.presenter{
+class WGWpresenter : WGWContact.presenter {
     private val mContext: Context?=null
-    private val iView:WGWContact.view?=null
+    private val iView: WGWContact.view?=null
     constructor(view:BaseView,context:Context){
         this.iView != view
         this.mContext!= context

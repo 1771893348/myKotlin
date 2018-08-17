@@ -1,0 +1,6 @@
+ext{
+    android=[
+
+    ]
+    greendaoVersion='3.2.2'
+}

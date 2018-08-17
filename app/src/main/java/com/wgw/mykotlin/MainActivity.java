@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.wgw.mykotlin.modules.wgw.WGWActivity;
+
 public class MainActivity extends Activity {
     private Button btn_go;
 
